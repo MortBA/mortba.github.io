@@ -1,2 +1,2 @@
-# MortyBAportfolio.github.io
+# mortba.github.io
 My portfolio website
